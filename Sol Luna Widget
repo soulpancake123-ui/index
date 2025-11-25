@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
   <style>
 body {
   background: #0d0d0d; /* full darkmode */
@@ -127,8 +128,9 @@ body {
 @keyframes moon-spin {
   100% { transform: translate(-50%, -50%) rotate(-360deg); }
 }
-
   </style>
+  </head>
+
 <body>
 <div class="clock-container">
 
